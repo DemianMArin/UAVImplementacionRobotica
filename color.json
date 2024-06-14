@@ -1,0 +1,28 @@
+{
+    "white":{
+        "low_hue" : 0,
+        "up_hue" : 180,
+        "low_sat" : 0,
+        "up_sat" : 38,
+        "low_val" : 122,
+        "up_val" : 171
+    },
+    "parrot":{
+        "low_hue" : 0,
+        "up_hue" : 180,
+        "low_sat" : 152,
+        "up_sat" : 241,
+        "low_val" : 79,
+        "up_val" : 144 
+    },
+    "exit":{
+        "low_hue" : 0,
+        "up_hue" : 180,
+        "low_sat" : 152,
+        "up_sat" : 241,
+        "low_val" : 79,
+        "up_val" : 144 
+    }
+
+
+}
